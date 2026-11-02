@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "url": "https://github.com/DeusAux/GN-Pianist/releases/download/v0.1.0/GN.Pianist.exe",
+  "sha256": "",
+  "size": 0,
+  "notes": "First release of GN Pianist.",
+  "releases": [
+    {
+      "version": "0.1.0",
+      "date": "2026-11-02",
+      "notes": "First release of GN Pianist."
+    }
+  ]
+}
