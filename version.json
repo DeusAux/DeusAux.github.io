@@ -1,8 +1,8 @@
 {
     "version":  "0.1.1",
     "url":  "https://github.com/DeusAux/GN-Pianist-Releases/releases/download/v0.1.1/GN.Pianist.exe",
-    "sha256":  "8AF2C377D1EC6B26B69C8F539CCD5A018AEE3BD84FA3FF3F96B826AC453337FF",
-    "size":  58930431,
+    "sha256":  "8F10850DE0CD6B3F34BF2F559E5EFBEAA817AF6760164D14D7DCF2F6AAC17388",
+    "size":  58930432,
     "notes":  "## Fixes\n- Folders now save\n\nMore info: https://deusaux.github.io",
     "releases":  [
                      {
