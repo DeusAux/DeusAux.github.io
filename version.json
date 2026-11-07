@@ -1,14 +1,19 @@
 {
-  "version": "0.1.0",
-  "url": "https://github.com/DeusAux/GN-Pianist/releases/download/v0.1.0/GN.Pianist.exe",
-  "sha256": "",
-  "size": 0,
-  "notes": "First release of GN Pianist.",
-  "releases": [
-    {
-      "version": "0.1.0",
-      "date": "2026-11-02",
-      "notes": "First release of GN Pianist."
-    }
-  ]
+    "version":  "0.2.0",
+    "url":  "https://github.com/DeusAux/GN-Pianist-Releases/releases/download/v0.1.1/GN.Pianist.exe",
+    "sha256":  "8AF2C377D1EC6B26B69C8F539CCD5A018AEE3BD84FA3FF3F96B826AC453337FF",
+    "size":  58930431,
+    "notes":  "## Fixes\n- Folders now save\n\nMore info: https://deusaux.github.io",
+    "releases":  [
+                     {
+                         "version":  "0.2.0",
+                         "date":  "2026-11-07",
+                         "notes":  "## Fixes\n- Folders now save\n\nMore info: https://deusaux.github.io"
+                     },
+                     {
+                         "version":  "0.1.0",
+                         "date":  "2026-11-02",
+                         "notes":  "First release of GN Pianist."
+                     }
+                 ]
 }
