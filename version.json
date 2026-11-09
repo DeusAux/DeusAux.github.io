@@ -1,10 +1,15 @@
 {
-    "version":  "0.1.1",
-    "url":  "https://github.com/DeusAux/GN-Pianist-Releases/releases/download/v0.1.1/GN.Pianist.exe",
-    "sha256":  "8F10850DE0CD6B3F34BF2F559E5EFBEAA817AF6760164D14D7DCF2F6AAC17388",
-    "size":  58930432,
-    "notes":  "## Fixes\n- Folders now save\n\nMore info: https://deusaux.github.io",
+    "version":  "0.1.2",
+    "url":  "https://github.com/DeusAux/GN-Pianist-Releases/releases/download/v0.1.2/GN.Pianist.exe",
+    "sha256":  "10D662AE478455CB0C6473ABA1B3F89C7942EDD307F4781808A7C4307F6E14E7",
+    "size":  63529442,
+    "notes":  "## New\n- Audio Reader tab: turn a song file (mp3, wav, m4a, flac, wma or a video) into notes. Open them in the MIDI Converter for a QWERTY sheet, or save them as a MIDI file.\n\nMore info: https://deusaux.github.io",
     "releases":  [
+                     {
+                         "version":  "0.1.2",
+                         "date":  "2026-11-09",
+                         "notes":  "## New\n- Audio Reader tab: turn a song file (mp3, wav, m4a, flac, wma or a video) into notes. Open them in the MIDI Converter for a QWERTY sheet, or save them as a MIDI file.\n\nMore info: https://deusaux.github.io"
+                     },
                      {
                          "version":  "0.1.1",
                          "date":  "2026-11-07",
