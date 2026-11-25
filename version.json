@@ -1,8 +1,8 @@
 {
     "version":  "0.1.6",
     "url":  "https://github.com/DeusAux/GN-Pianist-Releases/releases/download/v0.1.6/GN.Pianist.exe",
-    "sha256":  "4D86591BC004E0B49BD14576CA132ACAE227C72355BAC9B6F2FFE91869EE42BD",
-    "size":  179187920,
+    "sha256":  "291D7F19F980061652F900FE167DD6DEE55BC62A945340CF63160536A58CE8F3",
+    "size":  179191504,
     "notes":  "## New\n- Join the Deus Core Discord: Settings \u003e About GNP has a new \"Join our Discord\" button. Get help, share songs and hear about updates first.\n\n## Improved\n- Stronger license protection when GN Pianist is used offline. After this update, open GN Pianist once while you are online and it keeps working offline as before.\n\nYour songs, folders and sheets are not touched by this update.\n\nMore info: https://deusaux.github.io",
     "releases":  [
                      {
