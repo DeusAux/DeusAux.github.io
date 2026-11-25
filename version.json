@@ -1,10 +1,15 @@
 {
-    "version":  "0.1.5",
-    "url":  "https://github.com/DeusAux/GN-Pianist-Releases/releases/download/v0.1.5/GN.Pianist.exe",
-    "sha256":  "69B234E93BA177F14079E40ADA17C49F8C3D0B25B201B04895B63064A2150131",
-    "size":  179185360,
-    "notes":  "## New\n- Audio Reader: a new Hold choice sets how long each key is held. A song only tells GN Pianist how long a note rings, and with the sustain pedal that can be seconds longer than the pianist held the key.\n- **Natural** (the new default): each key is let go when the next note near it starts, the moment the hand moves on. Songs look like the falling notes in a Synthesia video, with no more 3 second holds from the pedal.\n- **As heard**: keys are held as long as the notes ring (how it worked before).\n- **Press once**: every note is one quick tap.\n- You can change Hold after reading a song. Nothing is read again, so the preview, Listen, Save and the .mid change straight away.\n\n## Improved\n- Audio Reader Precise engine: fewer fake notes. Ghost notes an octave above a real note are now cleaned out, and real octaves are kept.\n\n## Fixes\n- Audio Reader Quick engine: on some songs it read almost no right notes. It now reads those songs properly.\n\nYour songs, folders and sheets are not touched by this update.\n\nTip: if a song has a Synthesia video, the Synthesia Reader gives the exact key lengths.\n\nMore info: https://deusaux.github.io",
+    "version":  "0.1.6",
+    "url":  "https://github.com/DeusAux/GN-Pianist-Releases/releases/download/v0.1.6/GN.Pianist.exe",
+    "sha256":  "4D86591BC004E0B49BD14576CA132ACAE227C72355BAC9B6F2FFE91869EE42BD",
+    "size":  179187920,
+    "notes":  "## New\n- Join the Deus Core Discord: Settings \u003e About GNP has a new \"Join our Discord\" button. Get help, share songs and hear about updates first.\n\n## Improved\n- Stronger license protection when GN Pianist is used offline. After this update, open GN Pianist once while you are online and it keeps working offline as before.\n\nYour songs, folders and sheets are not touched by this update.\n\nMore info: https://deusaux.github.io",
     "releases":  [
+                     {
+                         "version":  "0.1.6",
+                         "date":  "2026-11-24",
+                         "notes":  "## New\n- Join the Deus Core Discord: Settings \u003e About GNP has a new \"Join our Discord\" button. Get help, share songs and hear about updates first.\n\n## Improved\n- Stronger license protection when GN Pianist is used offline. After this update, open GN Pianist once while you are online and it keeps working offline as before.\n\nYour songs, folders and sheets are not touched by this update.\n\nMore info: https://deusaux.github.io"
+                     },
                      {
                          "version":  "0.1.5",
                          "date":  "2026-11-19",
